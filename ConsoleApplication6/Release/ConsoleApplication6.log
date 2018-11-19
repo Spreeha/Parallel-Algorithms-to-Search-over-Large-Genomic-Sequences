@@ -1,0 +1,17 @@
+﻿  ConsoleApplication6.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+ConsoleApplication6.cpp(15): warning C4101: 'i': unreferenced local variable
+ConsoleApplication6.cpp(14): warning C4101: 'j': unreferenced local variable
+ConsoleApplication6.cpp(14): warning C4101: 'n': unreferenced local variable
+ConsoleApplication6.cpp(55): warning C4101: 'x': unreferenced local variable
+ConsoleApplication6.cpp(70): warning C4101: 'x': unreferenced local variable
+ConsoleApplication6.cpp(85): warning C4101: 'x': unreferenced local variable
+ConsoleApplication6.cpp(99): warning C4101: 'x': unreferenced local variable
+ConsoleApplication6.cpp(130): warning C4101: 'x': unreferenced local variable
+ConsoleApplication6.cpp(145): warning C4101: 'x': unreferenced local variable
+  Generating code
+  3 of 376 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication6.vcxproj -> C:\ConsoleApplication6\Release\ConsoleApplication6.exe
